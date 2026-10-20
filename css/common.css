@@ -78,12 +78,15 @@ img {
 
 .btn {
   display: block;
+  white-space: nowrap;
   background: #4d5ae5;
   font-weight: 500;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
   border-radius: 4px;
   padding: 16px 32px;
+  width: 169px;
   border: none;
   margin: 0 auto;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
