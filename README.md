@@ -1,24 +1,21 @@
-# WebStudio - Module 4 Homework
+# WebStudio - Module 5 Homework
 
 A continuation of the WebStudio landing page created for previous modules. This
-project adds SVG icons and decorative effects based on the provided Figma
-design.
+project adds a subscription form, a modal window, custom form controls, and
+interactive states based on the provided Figma design and Style Guide.
 
 ## Project Requirements
 
-- Repository name: goit-markup-hw-04
+- Repository name: goit-markup-hw-05
 - Use the previous homework project as the starting point.
-- Analyze the Figma layout before implementation.
-- Create an SVG sprite named `icons.svg` with IcoMoon and save it in the
-  `images` folder.
-- Add icons for the Features section, Team social links, and footer using
-  `<svg>` and `<use>`.
-- Add background image and gradient for the Hero section.
-- Add the decorative effects shown in the design:
-  - Card shadows.
-  - Portfolio overlays.
-  - Navigation link underlines.
-  - Hover and focus transitions.
+- Analyze the Figma layout and Style Guide before implementation.
+- Update the SVG sprite icons.svg in the images folder with Send, Close, User,
+  Phone, Email, and Checkmark icons.
+- Add a subscription form to the Footer.
+- Create a backdrop and modal window with a request form.
+- Implement custom checkbox styling and accessible keyboard interactions.
+- Match typography, colors, spacing, and interactive states to the Style Guide.
+- Add smooth transitions for hover, focus, focus-visible, and checked states.
 - Validate the HTML, format the code with Prettier, and publish the site with
   GitHub Pages.
 
@@ -30,6 +27,7 @@ design.
 - **Team** - Team member profiles with photos, names, and roles.
 - **Portfolio** - Project gallery with images, titles, and categories.
 - **Footer** - Company logo and description.
+- **Modal** - Backdrop with a request form, custom checkbox, and close button.
 
 ## Design
 
